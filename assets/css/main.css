@@ -1847,17 +1847,17 @@ input, select, textarea {
 					border-right: solid 0.6em transparent;
 				}
 
-			#nav a:hover {
+			#nav a {
 				opacity: 1.0;
 			}
-
+/*
 				#nav a:hover span {
 					opacity: 1.0;
 				}
 
 			#nav a.active {
 				opacity: 1.0;
-			}
+			}*/
 
 				#nav a.active:after {
 					border-bottom-width: 0.5em;
