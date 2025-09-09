@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - emadeldeen24
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - emadeldeen24/TS-TCC
+  - emadeldeen24/AttnSleep
+  - emadeldeen24/TSLANet
+  - emadeldeen24/AdaTime
