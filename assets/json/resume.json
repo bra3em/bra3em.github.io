@@ -1,200 +1,291 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Emadeldeen Eldele",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "emadeldeen.eldele@ku.ac.ae",
+    "phone": "+971 542711028",
+    "url": "https://emadeldeen24.github.io/",
+    "summary": "My research focuses on improving the robustness and efficiency of deep learning models for time series data against challenges such as domain shift, label scarcity, and sustainability.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Abu Dhabi",
+      "countryCode": "UAE"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "linkedin",
+        "username": "emadeldeen-eldele-phd-1a291a301",
+        "url": "https://www.linkedin.com/in/emadeldeen-eldele-phd-1a291a301"
+      },
+      {
+        "network": "google scholar",
+        "url": "https://scholar.google.com/citations?user=2LdeHIYAAAAJ", 
+        "username": "Emadeldeen Eldele"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Khalifa University, UAE",
+      "position": "Assistant Professor, Computer Science",
+      "url": "https://www.ku.ac.ae/",
+      "startDate": "2025-08-11",
+      "summary": "Teaching undergraduate and graduate courses, supervising FYP, Masters, and PhD students, publishing in top-tier venues, and applying for grants."
+    },
+    {
+      "name": "A*STAR Singapore (I²R & CFAR)",
+      "position": "Research Scientist (Joint Appointment)",
+      "url": "https://www.a-star.edu.sg/",
+      "startDate": "2023-05-15",
+      "endDate": "2025-08-07",
+      "summary": "Worked on robustness of deep learning models for time series, sustainable AI for time series, and learning from fewer labels."
+    },
+    {
+      "name": "Nanyang Technological University (NTU), Singapore",
+      "position": "Teaching Assistant",
+      "startDate": "2020-01-11",
+      "endDate": "2022-06-15",
+      "summary": "Guided lab sessions for courses including Data Analytics and Mining, Object-Oriented Design & Programming, and Digital Logic."
+    },
+    {
+      "name": "Institute for Infocomm Research (I²R), A*STAR Singapore",
+      "position": "Research Scholar",
+      "startDate": "2019-08-05",
+      "endDate": "2023-05-13",
+      "summary": "Conducted biomedical sensors data analysis and time series analysis using deep learning."
+    },
+    {
+      "name": "INNOTECH Corp., Egypt",
+      "position": "R&D Engineer",
+      "startDate": "2017-01-07",
+      "endDate": "2017-07-31",
+      "summary": "Developed algorithms for predicting epilepsy seizures from EEG signals, optimizing electrode usage, and building robust classifiers for early warnings."
+    },
+    {
+      "name": "Tanta University, Egypt",
+      "position": "Teaching Assistant",
+      "startDate": "2013-05-13",
+      "endDate": "2019-07-29",
+      "summary": "Assisted in teaching courses (ANN, programming, networks), mentored projects, and contributed to student activities."
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Editorial Services",
+      "position": "Guest Editor",
+      "url": "https://www.mdpi.com/journal/sensors/special_issues/AI_Medical_Sensing",
+      "summary": "Guest Editor of Special Issue 'Artificial Intelligence for Medical Sensing' in Sensors Journal."
+    },
+    {
+      "organization": "Program Committees",
+      "position": "Reviewer / PC Member",
+      "summary": "Served as reviewer for leading journals (IEEE TNNLS, TNSRE, J-BHI, Neurocomputing, etc.) and program committees (ICLR 2023-25, AAAI 2023, ICDM 2022)."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Nanyang Technological University, Singapore",
+      "area": "Computer Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-08-05",
+      "endDate": "2023-04-27",
+      "score": "4.33/5.0",
+      "summary": "Developed deep learning algorithms for biomedical time series data. Funded by SINGA scholarship (A*STAR, Singapore)."
+    },
+    {
+      "institution": "Tanta University, Egypt",
+      "area": "Computer Engineering",
+      "studyType": "Part-time Masters",
+      "startDate": "2014-01-13",
+      "endDate": "2018-06-30",
+      "score": "3.66/4.0",
+      "summary": "Built framework for predicting miRNA–mRNA targets using machine learning."
+    },
+    {
+      "institution": "Information Technology Institute (iTi), Egypt",
+      "area": "Cloud Architecture",
+      "studyType": "Diploma",
+      "startDate": "2012-09-01",
+      "endDate": "2013-06-01",
+      "summary": "Studied virtualization, storage management, and cloud computing (VMware vSphere, vCloud Director)."
+    },
+    {
+      "institution": "Tanta University, Egypt",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-13",
+      "endDate": "2012-06-30",
+      "score": "87% (Excellent Honours)",
+      "summary": "Relevant courses: ANN, OOP, Data Structures & Algorithms, Computer Networks."
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "SINGA Scholarship",
+      "date": "2019-03-18",
+      "awarder": "A*STAR, Singapore",
+      "summary": "Awarded the Singapore International Graduate Award (SINGA) for PhD studies."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "From Maxwell’s Equations to Artificial Intelligence: The Evolution of Physics-Guided AI in Nanophotonics and Electromagnetics",
+      "publisher": "Optics & Laser Technology",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1016/j.optlastec.2025.113828"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Learning Soft Sparse Shapes for Efficient Time-Series Classification",
+      "publisher": "ICML",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2505.00000"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Counterfactual Contrastive Learning with Normalizing Flows for Robust Treatment Effect Estimation",
+      "publisher": "ICML",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2505.00001"
+    },
+    {
+      "name": "Hierarchical Classification Auxiliary Network for Time Series Forecasting",
+      "publisher": "AAAI",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2412.00002"
+    },
+    {
+      "name": "Bi-hemisphere Interaction Convolutional Neural Network for Motor Imagery Classification",
+      "publisher": "IEEE EMBC",
+      "releaseDate": "2024",
+      "url": "https://ieeexplore.ieee.org/document/10782755"
+    },
+    {
+      "name": "Label-efficient Time Series Representation Learning: A Review",
+      "publisher": "IEEE Transactions on Artificial Intelligence",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2403.00003"
+    },
+    {
+      "name": "TSLANet: Rethinking Transformers for Time Series Representation Learning",
+      "publisher": "ICML",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/abs/2405.00004"
+    },
+    {
+      "name": "ECGTransForm: Empowering Adaptive ECG Arrhythmia Classification Framework with Bidirectional Transformer",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2024",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1746809423011473"
+    },
+    {
+      "name": "Self-Supervised Contrastive Representation Learning for Semi-Supervised Time-Series Classification",
+      "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "releaseDate": "2023",
+      "url": "https://ieeexplore.ieee.org/document/10217836"
+    },
+    {
+      "name": "Source-Free Domain Adaptation with Temporal Imputation for Time Series Data",
+      "publisher": "ACM SIGKDD",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3580305.3599507"
+    },
+    {
+      "name": "Contrastive Domain Adaptation for Time-Series via Temporal Mixup",
+      "publisher": "IEEE Transactions on Artificial Intelligence",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1109/TAI.2023.3293473"
+    },
+    {
+      "name": "ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data",
+      "publisher": "ACM Transactions on Knowledge Discovery from Data",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1145/3587937"
+    },
+    {
+      "name": "Self-Supervised Learning for Label-Efficient Sleep Stage Classification: A Comprehensive Evaluation",
+      "publisher": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1109/TNSRE.2023.3245285"
+    },
+    {
+      "name": "ADAST: Attentive Cross-Domain EEG-Based Sleep Staging Framework with Iterative Self-Training",
+      "publisher": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1109/TETCI.2022.3189695"
+    },
+    {
+      "name": "Self-Supervised Autoregressive Domain Adaptation for Time Series Data",
+      "publisher": "IEEE Transactions on Neural Networks and Learning Systems",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1109/TNNLS.2022.3183252"
+    },
+    {
+      "name": "Conditional Contrastive Domain Generalization for Fault Diagnosis",
+      "publisher": "IEEE Transactions on Instrumentation and Measurement",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1109/TIM.2022.3154000"
+    },
+    {
+      "name": "Time-Series Representation Learning via Temporal and Contextual Contrasting",
+      "publisher": "IJCAI",
+      "releaseDate": "2021",
+      "url": "https://www.ijcai.org/proceedings/2021/0327.pdf"
+    },
+    {
+      "name": "An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG",
+      "publisher": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1109/TNSRE.2021.3076234"
+    },
+    {
+      "name": "Enhanced Framework for miRNA Target Prediction",
+      "publisher": "ICCES",
+      "releaseDate": "2017",
+      "url": "https://doi.org/10.1109/ICCES.2017.8275367"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Deep Learning",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Time Series Analysis",
+        "Representation Learning",
+        "Self-Supervised Learning",
+        "Semi-Supervised Learning",
+        "Robustness",
+        "Sustainable AI"
       ]
+    },
+    {
+      "name": "Programming & Tools",
+      "keywords": ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "CUDA", "Docker", "Git"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "Arabic",
+      "fluency": "Native"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Academic Interests",
+      "keywords": ["Time Series Data", "Biomedical Applications", "Robust AI", "Representation Learning"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Personal Interests",
+      "keywords": ["Reading", "Traveling", "Technology Innovation"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Foundation Model for Predictive Health Maintenance",
+      "summary": "Developing foundation models for bearing data.",
+      "highlights": ["Representation Learning", "Large Model", "Bearing Data"]
     }
   ]
 }
