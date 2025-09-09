@@ -2,64 +2,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Emadeldeen Eldele
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th June 1990
     - name: Languages
-      value: English, German
+      value: English, Arabic
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Engineering
+      institution: Nanyang Technological University (NTU), Singapore
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - CGPA: 4.33/5.0
+        - Developing advanced deep learning algorithms for representation learning and few-label problems in biomedical sensory data.
+        - Awarded the SINGA scholarship, funded by the Agency for Science, Technology and Research (A*STAR), Singapore.
+    - title: Masters in Computer Engineering
+      institution: Tanta University, Egypt
+      year: 2014 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - CGPA: 3.66/4.0
+        - Developed a framework for predicting the targets of miRNAs in mRNAs using machine learning techniques.
+    - title: Cloud Architecture Diploma
+      institution: Information Technology Institute (iTi), Egypt
+      year: 2012 - 2013
+      description:
+        - Studied topics: virtualization, storage management, and cloud architecture.
+        - VMware (vSphere, vCloud director).
+    - title: Bachelor of Computer Engineering
+      institution: Tanta University, Egypt
+      year: 2007 - 2012
+      description:
+        - CGPA: 87% with Excellent Honours
+        - Relevant Coursework: Artificial Neural Networks, Object Oriented Programming, Data Structures and Algorithms, Computer Networks.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor, CS Department
+      institution: Khalifa University, UAE
+      year: 2025 - Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching undergraduate and graduate courses.
+        - Supervising FYP, Masters, and Ph.D. students.
+        - Publishing in top-tier conferences and journals.
+        - Applying for grants.
+    - title: Research Scientist (Joint Appointment between I2R and CFAR)
+      institution: A*STAR, Singapore
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Research on robustness of deep learning models for time series data.
+        - Sustainable AI for time series applications.
+        - Learning from less labels.
+    - title: Teaching Assistant
+      institution: Nanyang Technological University (NTU), Singapore
+      year: 2020 - 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Guided undergraduates in lab sessions for:
+          - [CZ4032] Data Analytics and Mining
+          - [CE2002] Object-Oriented Design & Programming
+          - [SC1005] Digital Logic
+    - title: Research Scholar
+      institution: Institute for Infocomm Research (I²R), A*STAR, Singapore
+      year: 2019 - 2023
+      description:
+        - Worked on biomedical sensors data analysis.
+        - Specialized in time-series analysis using deep learning techniques.
+    - title: R&D Engineer
+      institution: INNOTECH Corp., Egypt
+      year: 2017
+      description:
+        - Developed an algorithm for predicting epilepsy seizures from EEG signals.
+        - Selected effective electrodes to minimize sensor usage.
+        - Built robust classifiers for early epilepsy warnings.
+        - Delivered working models to development team for hardware implementation.
+    - title: Teaching Assistant
+      institution: Tanta University, Egypt
+      year: 2013 - 2019
+      description:
+        - Assisted in teaching courses such as ANN, programming, and networks.
+        - Participated in student awareness activities.
+        - Mentored student projects in the "Made In University (MIU)" contest.
 
 - title: Open Source Projects
   type: time_table
@@ -68,30 +92,48 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Academic Services
+  type: nested_list
+  contents:
+    - title: Editorial Services
+      items:
+        - Guest Editor for "Artificial Intelligence for Medical Sensing", Sensors Journal (2021 - Current).
+    - title: Journal Review
+      items:
+        - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+        - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
+        - IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)
+        - IEEE Access
+        - Journal of Biomedical and Health Informatics (J-BHI)
+        - Neurocomputing
+        - Knowledge and Information Systems
+        - PLoS One
+    - title: Program Committee
+      items:
+        - ICLR 2025, 2024, 2023
+        - AAAI 2025, 2023
+        - ICDM 2022
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019 - 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - SINGA Scholarship (A*STAR, Singapore)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Deep Learning for Time Series
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Robustness of deep learning models for time series data.
+        - Sustainable AI in biomedical applications.
+    - title: Representation Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Learning from few or weak labels.
+        - Self-supervised and semi-supervised learning approaches.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, traveling, and technology innovation.
